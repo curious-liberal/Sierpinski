@@ -69,7 +69,7 @@ sides = 5
 # Length between corners of shape (note the more
 # corners the lower this number should be - unless you wan't part of
 # your shape going off the screen)
-length = 400
+length = 200
 
 # Speed to draw at
 speed = 10
