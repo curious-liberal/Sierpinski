@@ -53,7 +53,7 @@ python3 main.py
 
 Just why, use Linux it's better!
 
-If you're convinced then please clone the repository into a directory and run the Python files appropriately. Note that the file _main.py_ must be running in the **same directory** as the _sierpinski.py_ file for this work unless you wish to edit the code yourself.
+If you're not convinced then please clone the repository into a directory and run the Python files appropriately. Note that the file _main.py_ must be running in the **same directory** as the _sierpinski.py_ file for this work unless you wish to edit the code yourself.
 
 ### Using the module
 
