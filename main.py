@@ -1,5 +1,6 @@
 from sierpinski import Sierpinski
 
+# Just to make more user-friendly for some people
 sides = int(input("How many sides should the shape be? "))
 length = int(input("How big should each side be? "))
 
