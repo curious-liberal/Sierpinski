@@ -2,7 +2,7 @@
 
 ## Brief description
 
-A Python module capable of create a Sierpinski triangle by randomly placing dots on a screen (following two rules). This uses Python's turtle module to draw the graphics on the screen.
+A Python module capable of create a Sierpinski triangle (or any other shape) by randomly placing dots on a screen (following two rules). This uses Python's turtle module to draw the graphics on the screen.
 
 ## What's a Sierpinski triangle?
 
