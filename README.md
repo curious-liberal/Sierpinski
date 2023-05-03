@@ -46,7 +46,7 @@ If an error occurs this is not an issue with my code by rather your installation
 ```
 git clone https://github.com/curious-liberal/Sierpinski
 cd Sierpinski
-python3 main.py
+python3 example.py
 ```
 
 #### Windows
@@ -57,7 +57,7 @@ If you're not convinced then please clone the repository into a directory and ru
 
 ### Using the module
 
-The code in the _sierpinski.py_ file is extremely well documented, therefore anybody without prior coding knowledge should be able to understand it, however below is some basic usage for those whom wish for more customisation than is offered by default in the _main.py_ file.
+The code in the _sierpinski.py_ file is extremely well documented, therefore anybody without prior coding knowledge should be able to understand it, however below is some basic usage for those whom wish for more customisation than is offered by default in the _example.py_ file.
 
 ```python
 # Import Sierpinski (note capitalisation is important here)
